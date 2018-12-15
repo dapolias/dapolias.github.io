@@ -1,2 +1,3 @@
 name: Dapolias
 markdown: dapdown
+permalink: /blog/:year/:month/:day/:title
